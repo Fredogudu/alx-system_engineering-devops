@@ -1,0 +1,72 @@
+NGW64 /
+$ ssh 7e806494393d@7e806494393d.0b38a2cb.alx-cod.online
+7e806494393d@7e806494393d.0b38a2cb.alx-cod.online's password:
+root@7e806494393d:/# ls
+bin   dev  home  lib32  libx32  mnt  proc  run   srv  tmp  var
+boot  etc  lib   lib64  media   opt  root  sbin  sys  usr
+root@7e806494393d:/# cd root
+root@7e806494393d:~# ls
+AirBnb_clone_v2                empty_directory
+AirBnB_clone-v2                not_here
+AirBnB_clone_v3                old_school
+alx-higher_level_programming   ready_to_be_removed
+alx-low_level_programming      school
+alx-system_engineering-devops
+root@7e806494393d:~# cd alx-client_loop: send disconnect: Connection reset by peer
+
+HP@Fredogudu MINGW64 /
+$ ssh 7e806494393d@7e806494393d.0b38a2cb.alx-cod.online
+7e806494393d@7e806494393d.0b38a2cb.alx-cod.online's password:
+root@7e806494393d:/# cd root
+root@7e806494393d:~# cd alx-system_engineering-devops/
+root@7e806494393d:~/alx-system_engineering-devops# ls
+0x00-shell_basics                  0x08-networking_basics_2
+0x01-shell_permissions             0x0A-configuration_management
+0x02-shell_redirections            0x0B-ssh
+0x03-shell_variables_expansions    0x0C-web_server
+0x04-loops_conditions_and_parsing  0x0D-web_stack_debugging_0
+0x05-processes_and_signals         0x0E-web_stack_debugging_1
+0x06-regular_expressions           0x10-https_ssl
+0x07-networking_basics             0x15-api
+root@7e806494393d:~/alx-system_engineering-devops# mkdir 0x0F-load_balancer
+root@7e806494393d:~/alx-system_engineering-devops# ls
+0x00-shell_basics                  0x0A-configuration_management
+0x01-shell_permissions             0x0B-ssh
+0x02-shell_redirections            0x0C-web_server
+0x03-shell_variables_expansions    0x0D-web_stack_debugging_0
+0x04-loops_conditions_and_parsing  0x0E-web_stack_debugging_1
+0x05-processes_and_signals         0x0F-load_balancer
+0x06-regular_expressions           0x10-https_ssl
+0x07-networking_basics             0x15-api
+0x08-networking_basics_2
+root@7e806494393d:~/alx-system_engineering-devops# cd 0x0F-load_balancer/
+root@7e806494393d:~/alx-system_engineering-devops/0x0F-load_balancer# ls
+root@7e806494393d:~/alx-system_engineering-devops/0x0F-load_balancer# vi README.md
+root@7e806494393d:~/alx-system_engineering-devops/0x0F-load_balancer# cd ../
+root@7e806494393d:~/alx-system_engineering-devops# ls
+0x00-shell_basics                  0x0A-configuration_management
+0x01-shell_permissions             0x0B-ssh
+0x02-shell_redirections            0x0C-web_server
+0x03-shell_variables_expansions    0x0D-web_stack_debugging_0
+0x04-loops_conditions_and_parsing  0x0E-web_stack_debugging_1
+0x05-processes_and_signals         0x0F-load_balancer
+0x06-regular_expressions           0x10-https_ssl
+0x07-networking_basics             0x15-api
+0x08-networking_basics_2
+root@7e806494393d:~/alx-system_engineering-devops# mkdir 0x12-web_stack_debugging_2
+root@7e806494393d:~/alx-system_engineering-devops# ls
+0x00-shell_basics                  0x0A-configuration_management
+0x01-shell_permissions             0x0B-ssh
+0x02-shell_redirections            0x0C-web_server
+0x03-shell_variables_expansions    0x0D-web_stack_debugging_0
+0x04-loops_conditions_and_parsing  0x0E-web_stack_debugging_1
+0x05-processes_and_signals         0x0F-load_balancer
+0x06-regular_expressions           0x10-https_ssl
+0x07-networking_basics             0x12-web_stack_debugging_2
+0x08-networking_basics_2           0x15-api
+root@7e806494393d:~/alx-system_engineering-devops# cd 0x12-web_stack_debugging_2/
+root@7e806494393d:~/alx-system_engineering-devops/0x12-web_stack_debugging_2# vi README.md
+root@7e806494393d:~/alx-system_engineering-devops/0x12-web_stack_debugging_2# vi 0-iamsomeoneelse
+root@7e806494393d:~/alx-system_engineering-devops/0x12-web_stack_debugging_2# vi 1-run_nginx_as_nginx
+root@7e806494393d:~/alx-system_engineering-devops/0x12-web_stack_debugging_2# vi
+
